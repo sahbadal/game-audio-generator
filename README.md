@@ -116,9 +116,37 @@ Enter one line per row (Hindi, Marathi or English) and a voice description, for 
 
 ### Character voice
 
-1. Put a 10 to 15 second reference clip in `voices/` (create it with `make_ref.py`).
-2. Pick it in **Reference voice** and press **Refresh voices** if it is missing.
-3. Tune expressiveness, pacing, speed and pause length, then generate.
+Use this tab when a character needs **the same voice across many lines** (for example Sofia or Rajan). Chatterbox copies the voice from a short reference clip, so the reference decides how the character sounds.
+
+**Step 1: Make the reference clip**
+
+1. Take a clean recording of the voice, 10 to 15 seconds long, with no music, no background noise and one speaker only.
+2. Run `make_ref.py` on it. It saves the cleaned reference into `voices/`, for example `voices/sofia_ref.wav`. Check the top of `make_ref.py` for its exact arguments.
+
+**Step 2: Listen to the reference first**
+
+Open the `.wav` from `voices/` in any audio player before you use it. The generated voice can only be as good as this clip. If it has noise, echo or several speakers, redo Step 1 with a cleaner source.
+
+**Step 3: Generate lines in that voice**
+
+1. Open the **Character voice** tab and press **Refresh voices**.
+2. Choose the clip in **Reference voice**, for example `sofia_ref.wav`.
+3. Enter a **Slot id** such as `story.sofia.s1_01_greet` and pick a category (for example `dialogue`).
+4. Write one line per row. Write normally: the voice pauses after `.`, `?`, `!` and `...`.
+5. Press **Generate**, then listen and approve in the **Review** tab.
+
+| Setting | What it does | Default |
+|---|---|---|
+| Expressiveness | Higher is more emotional and exaggerated | 0.45 |
+| Pacing | Lower is slower and more natural | 0.25 |
+| Speed | Playback speed, pitch is kept | 0.85 |
+| Pause length | Silence between sentences | 1 |
+| Takes per line | Variations to choose from | 2 |
+| Seed | `-1` is random. Fix it to repeat a result. | 42 |
+
+Every clip Chatterbox generates carries an inaudible PerTh watermark, so the audio can be identified as AI-generated later.
+
+**Only clone voices you have permission to use.** Use your own recordings, a voice actor who agreed in writing, or a voice you have the rights to. Do not clone real people without their consent.
 
 ## Batch manifests
 
@@ -217,10 +245,23 @@ Slot ids use dots as separators, and the first part decides the output folder.
 | `pip freeze` fails with `NotADirectoryError` | An editable package points to a folder that no longer exists. Uninstall it, or use `pip list --format=freeze`. |
 | Voice missing in Character voice | Put the `.wav` in `voices/` and press **Refresh voices**. |
 
-## What is not committed
 
-`venv*`, `__pycache__`, `output/`, `voices/*.wav` and any key or token files are ignored through `.gitignore`. Never commit a Hugging Face token.
+## Licenses
 
-## License
+### This repository
 
-Add your license here. Check the licenses of Stable Audio Open, Parler-TTS and Chatterbox before using generated audio commercially.
+The code in this repository is the property of its author. If you make the repo public, add a `LICENSE` file (MIT is a common choice). Until then, no license is granted to others.
+
+### Models used
+
+This project only downloads and runs third-party models. Their licenses apply to you as the user.
+
+| Model | License | Commercial use |
+|---|---|---|
+| Stable Audio Open | Stability AI Community License | Free for research and non-commercial use. Commercial use is free only for individuals or organizations with up to $1M annual revenue. Above that you need an enterprise license from Stability AI. |
+| Parler-TTS (Mini v1) | Apache 2.0 | Yes |
+| Chatterbox | MIT | Yes |
+
+**Stable Audio Open is the one to check.** If you use its output in a commercial product such as a game, read the license on the model page you accepted (https://huggingface.co/stabilityai/stable-audio-open-1.0) and Stability AI's license page (https://stability.ai/license). Licenses can change, so check them before you ship.
+
+This is not legal advice. For a company project, ask your legal team before release.
