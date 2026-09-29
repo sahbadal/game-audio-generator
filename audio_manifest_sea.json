@@ -1,0 +1,103 @@
+{
+  "project": "Dreamscape",
+  "version": 1,
+  "note": "sea sounds (Stable Audio).",
+  "slots": [
+    {
+      "id": "sea.waves_gentle",
+      "category": "world",
+      "model": "sfx",
+      "prompt": "gentle ocean waves lapping on a shore, calm, steady",
+      "negative_prompt": "music, speech, voices, singing, clear words, low quality, distortion, ringing, whistle, beep, tone",
+      "type": "loop",
+      "duration_s": 12,
+      "variations": 2,
+      "spatial": "2d",
+      "status": "generated"
+    },
+    {
+      "id": "sea.waves_strong",
+      "category": "world",
+      "model": "sfx",
+      "prompt": "strong ocean waves crashing on rocks, breaking and receding, steady",
+      "negative_prompt": "music, speech, voices, singing, clear words, low quality, distortion, ringing, whistle, beep, tone",
+      "type": "loop",
+      "duration_s": 12,
+      "variations": 2,
+      "spatial": "2d",
+      "status": "generated"
+    },
+    {
+      "id": "sea.harbour_lap",
+      "category": "world",
+      "model": "sfx",
+      "prompt": "water lapping against a harbour wall and boat hulls, calm, steady",
+      "negative_prompt": "music, speech, voices, singing, clear words, low quality, distortion, ringing, whistle, beep, tone",
+      "type": "loop",
+      "duration_s": 10,
+      "variations": 1,
+      "spatial": "3d",
+      "status": "generated"
+    },
+    {
+      "id": "sea.boat_idle",
+      "category": "world",
+      "model": "sfx",
+      "prompt": "small fishing boat diesel engine idling, low rumbling engine, steady mechanical sound, close mic, dry",
+      "negative_prompt": "music, speech, horn, traffic, crowd, reverb, echo, low quality, distortion, high-pitched whine, ringing, whistle, beep, tone, hiss, electronic, synth",
+      "type": "loop",
+      "duration_s": 8,
+      "variations": 1,
+      "spatial": "3d",
+      "status": "generated"
+    },
+    {
+      "id": "sea.boat_cruise",
+      "category": "world",
+      "model": "sfx",
+      "prompt": "small fishing boat diesel engine running at medium speed, low rumbling engine, steady mechanical sound, close mic, dry",
+      "negative_prompt": "music, speech, horn, traffic, crowd, reverb, echo, low quality, distortion, high-pitched whine, ringing, whistle, beep, tone, hiss, electronic, synth",
+      "type": "loop",
+      "duration_s": 8,
+      "variations": 1,
+      "spatial": "3d",
+      "status": "generated"
+    },
+    {
+      "id": "sea.ship_horn",
+      "category": "world",
+      "model": "sfx",
+      "prompt": "large ship horn, single long deep blast, outdoors, dry",
+      "negative_prompt": "music, speech, voices, reverb, echo, low quality, distortion, noise",
+      "type": "one_shot",
+      "duration_s": 3,
+      "variations": 2,
+      "spatial": "3d",
+      "status": "generated"
+    },
+    {
+      "id": "sea.seagulls",
+      "category": "world",
+      "model": "sfx",
+      "prompt": "seagulls calling near the sea, a few calls, outdoors",
+      "negative_prompt": "music, speech, human voice, reverb, low quality, distortion",
+      "type": "one_shot",
+      "duration_s": 4,
+      "variations": 2,
+      "spatial": "3d",
+      "status": "generated"
+    },
+    {
+      "id": "sea.pier_creak",
+      "category": "world",
+      "model": "sfx",
+      "prompt": "wooden pier creaking softly, gentle boards and rope, dry",
+      "negative_prompt": "music, speech, voices, reverb, echo, low quality, distortion, noise",
+      "type": "one_shot",
+      "duration_s": 3,
+      "variations": 2,
+      "spatial": "3d",
+      "status": "generated"
+    }
+  ]
+}

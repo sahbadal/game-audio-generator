@@ -1,0 +1,9 @@
+venv/
+venv_sfx/
+venv_voice/
+__pycache__/
+*.pyc
+output/
+voices/*.wav
+.env
+*.key
