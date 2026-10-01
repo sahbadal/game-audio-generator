@@ -1,0 +1,3271 @@
+{
+  "project": "Dreamscape",
+  "version": 1,
+  "note": "Arjun: 192 lines.",
+  "slots": [
+    {
+      "id": "story.arjun.r00_m00_c002",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "I think I can help. Let me check the route on my phone."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r00_m00_c004",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once the route is loaded on the phone.",
+      "speech": {
+        "text": [
+          "Got it. It's this way. Follow me."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r00_m00_c006",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "I'm Arjun. So, where are you from?"
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r00_m00_c008",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "No. I moved here recently."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r00_m00_c011",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Sure! I love chai."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r00_m00_c013",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once the player accepts the chai.",
+      "speech": {
+        "text": [
+          "That's really thoughtful."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r00_m00_c015",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "I wanted a fresh start. I'm still settling in."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r00_m00_c018",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Sure. Why not."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r00_m00_c023",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "I'm glad you like them. Let's get you to your hotel."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r00_m00_c025",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Just a little. I still have a lot to try."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r00_m00_c028",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once Arjun takes the gift from Sofia.",
+      "speech": {
+        "text": [
+          "Sure! I'd like that, Sofia."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r01_m01_c001",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Player after standing outside Rajan's shop's window.",
+      "speech": {
+        "text": [
+          "Hi. Do you repair electronics? I'm Arjun. My Walkman suddenly stopped working. I was hoping you could take a look."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r01_m01_c003",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "After 3 seconds, once Rajan opens the Walkman.",
+      "speech": {
+        "text": [
+          "I think I know the problem. There's probably an issue with the circuit. Could I borrow your tools to fix it?"
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r01_m01_c007",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "I used to work in tech security back in Bangalore. Later, I felt I needed a change, so I left my job and came to Mumbai for a fresh start. I'm still figuring things out. If you happen to know anyone looking for help, I'd really appreciate it."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r01_m01_c009",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Honestly, that's more than I was hoping for. I'd be happy to help, and I really appreciate the opportunity. Thank you!"
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r01_m02_c002",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Good morning. Sure, what do you need?"
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r01_m02_c004",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Got it. I'll pick everything up and head back."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r01_m02_c006",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Yeah. Took me a minute to get my bearings, but I managed."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r01_m02_c008",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "I guess today was a good start."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r01_m03_c002",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "What seems to be the problem?"
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r01_m03_c004",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "No problem. I'll head over now."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r01_m03_c005",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once Arjun reaches the souvenir shop.",
+      "speech": {
+        "text": [
+          "Hi. I'm here from Rajan's repair shop. He asked me to pick up your camera."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r01_m03_c008",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "No problem. I'll take it back, get it repaired, and bring it back when it's ready."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r01_m03_c012",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Alright. I'll be back soon."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r01_m03_c014",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Got it. I'll deliver it right away."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r01_m03_c016",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "No problem. That's what we're here for. I'll get going now."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r01_m03_c018",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Yeah, I'm learning more with every job."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r01_m04_c003",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Don't worry, Rajan. I'll pick him up and get him there safely."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r01_m04_c005",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once Arjun reaches the pickup point.",
+      "speech": {
+        "text": [
+          "Hello, I'm Arjun. Rajan said I'd be picking you up. Did you have any trouble finding the place?"
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r01_m04_c007",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Sure. I know a good Chinese food truck nearby. I'll take you there."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r01_m04_c009",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "It was my pleasure. Have a great stay in the city, Vikram."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r01_m04_c011",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "A guest should always be looked after. I'm glad I could help both of you."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r01_m05_c001",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once Arjun reaches Rajan near the bed.",
+      "speech": {
+        "text": [
+          "Rajan, are you alright? You don't look too well."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r01_m05_c003",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Have you eaten anything? Did you take your medicine?"
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r01_m05_c005",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "What do you need? I'll go get it for you."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r01_m05_c007",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Don't worry, Rajan. Get some rest. I'll be back soon."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r01_m05_c009",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "I'm just glad I could be there when you needed me."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r01_m05_c011",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Thanks, Rajan. You just focus on getting better. Don't worry about the shop, I've got it covered."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r02_m01_c002",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Yeah, I just finished at the shop. What's up?"
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r02_m01_c004",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Sure. Where should I meet you?"
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r02_m01_c006",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Sounds good. I'll be there soon."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r02_m01_c007",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once Arjun reaches Sofia's pickup location.",
+      "speech": {
+        "text": [
+          "Hey, Sofia. Ready to go?"
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r02_m01_c009",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once they reach the carnival entrance.",
+      "speech": {
+        "text": [
+          "So, what did you want to talk about?"
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r02_m01_c011",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "You've kept me curious since your call."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r02_m01_c013",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Alright. Lead the way."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r02_m02_c002",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "It always looks easy until you actually try it."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r02_m02_c004",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Alright. Let's see how I do."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r02_m02_c006",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Good thing the ticket counter's right over there."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r02_m02_c008",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Alright. I'll be right back."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r02_m02_c009",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Final game done, back in the carnival lobby.",
+      "speech": {
+        "text": [
+          "Sofia? Where did she go?"
+        ],
+        "voice": "Arjun speaks in a worried, searching tone at a moderate pace. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r02_m02_c010",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Arjun finds Sofia's bag near the ticket counter.",
+      "speech": {
+        "text": [
+          "This is Sofia's bag... She wouldn't just leave it behind."
+        ],
+        "voice": "Arjun speaks in a worried and quiet tone at a slow pace. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r02_m02_c011",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Arjun opens the bag and finds her phone, work ID and route list.",
+      "speech": {
+        "text": [
+          "Her phone's still here. Maybe there's a clue."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r02_m03_c002",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Hi, I'm Arjun."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r02_m03_c004",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "We came to the carnival together. She disappeared, and I found her bag with the phone."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r02_m03_c006",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "There was a shipment code, H X E, seven seven four, and a location at the Carnival Service Lane."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r02_m03_c008",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "I'll check it out and let you know."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r02_m03_c010",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "I will."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r02_m04_c001",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once Arjun examines the marked shipment crate.",
+      "speech": {
+        "text": [
+          "So the shipment was real..."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r02_m04_c002",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "H X E, seven seven four. This is the same shipment from Sofia's phone."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r02_m04_c003",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "She was tracking this. There has to be something here."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r02_m05_c001",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "CCTV frame shows two men taking Sofia away.",
+      "speech": {
+        "text": [
+          "Those men... they took Sofia."
+        ],
+        "voice": "Arjun speaks in a shocked and quiet tone. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r02_m05_c002",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "So that's what happened."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r02_m05_c003",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "CCTV frame shows Sofia talking to Naseem.",
+      "speech": {
+        "text": [
+          "Naseem wasn't involved. He was asking Sofia about his family's artifact."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r02_m05_c004",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "This shipment might be connected to his case. I need to find Naseem."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m01_c002",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "I found a CCTV camera with footage of Sofia and someone named Naseem Shaikh."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m01_c004",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Do you know where I can find him?"
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m01_c006",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once Arjun reaches Naseem's conservation room.",
+      "speech": {
+        "text": [
+          "Hi, Mr. Shaikh. Meera sent me. I'm looking into the shipment case."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m01_c008",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Do you still have anything that shows what the original looked like?"
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m01_c011",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "After the Photo Comparison Puzzle.",
+      "speech": {
+        "text": [
+          "You're right. The vase on display isn't the original."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m01_c013",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "I'll speak to him and find out what happened."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m01_c015",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "I will. I'll do my best to find the truth. Everything will be alright."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m02_c002",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Where can I find him?"
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m02_c004",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Alright. I'll go get him."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m02_c005",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once Arjun reaches Dev's house.",
+      "speech": {
+        "text": [
+          "Hey, Dev. Naseem sent me. We need to check something at the museum."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m02_c007",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Of course. Let's head over."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m02_c009",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Can we get it loose?"
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m02_c011",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "I'll take a look."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m02_c012",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once Arjun collects the lubricant oil bottle.",
+      "speech": {
+        "text": [
+          "Found it. Here you go."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m02_c016",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Whose fingerprint do we need?"
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m02_c018",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "So his fingerprint might still be there?"
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m02_c020",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once Arjun collects the tape.",
+      "speech": {
+        "text": [
+          "I'll see what I can find."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m02_c021",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "After collecting the fingerprint impressions.",
+      "speech": {
+        "text": [
+          "I've got a few. Let's try them."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m02_c023",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once Arjun reaches the marked drawer.",
+      "speech": {
+        "text": [
+          "These records have Naseem's name... and there are others too."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m02_c025",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Arjun notices Sultan Mirza's logo stamp and signature.",
+      "speech": {
+        "text": [
+          "They all have the same logo and signature. Sultan Mirza."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m02_c027",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "It sounds worth checking out."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m03_c002",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Then we need to find another way in."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m03_c004",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Sounds good. Let's go and talk to him."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m03_c005",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once Arjun reaches Naseem's conservation room.",
+      "speech": {
+        "text": [
+          "There's a guard at the alley entrance. Do you have anything that could help us get past him quietly?"
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m03_c007",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Can it still be used?"
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m03_c009",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "I'll take it to Rajan and see what I can do."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m03_c010",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Arjun enters Rajan's shop and notices the sticky note.",
+      "speech": {
+        "text": [
+          "Let's see... broken blow pipe, tape, phenyl, and a pointed cup."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m03_c011",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once all items are on the repair tray.",
+      "speech": {
+        "text": [
+          "That should be everything."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m03_c012",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Back at the alley entrance with the blow pipe.",
+      "speech": {
+        "text": [
+          "Let's see if this works."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m03_c013",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once the guard leaves the gate area.",
+      "speech": {
+        "text": [
+          "That worked."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m03_c014",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once the alley lights are restored.",
+      "speech": {
+        "text": [
+          "Much better. Now I can see what's here."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m03_c015",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once Arjun reaches the sealed shipment crates.",
+      "speech": {
+        "text": [
+          "I can't open these. If I break the seal, they'll know someone was here."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m03_c016",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once Arjun inspects the marked crate.",
+      "speech": {
+        "text": [
+          "Sultan Mirza Logistics... and the destination is Paris. Paris? This can't be a coincidence."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m03_c017",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once Arjun photographs the crate label.",
+      "speech": {
+        "text": [
+          "This should be enough proof. I need to show it to Naseem and Meera."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m04_c002",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Yeah. I found a photo of the crate. It has Sultan Mirza's logo and the Paris destination."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m04_c004",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Sure. I'll print it and bring it over."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m04_c005",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Arjun shows Naseem the printed image.",
+      "speech": {
+        "text": [
+          "Here's the printed copy. Don't worry, Meera's helping with the case too."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m04_c009",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Of course. I'll get the key."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m04_c010",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once the drawer is found jammed.",
+      "speech": {
+        "text": [
+          "It's stuck. I'll have to get it open somehow."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m04_c011",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Drawer opened, scooter key collected.",
+      "speech": {
+        "text": [
+          "Got it. Let's get you to the hospital."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m04_c013",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Don't worry about it."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r03_m04_c014",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once they reach the hospital entrance.",
+      "speech": {
+        "text": [
+          "We'll get you in first. I'll speak to Meera and keep working on this. We'll get your family artifact back."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r04_m01_c002",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Got it. I'm heading there now."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r04_m01_c003",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "At the café, sitting with Meera.",
+      "speech": {
+        "text": [
+          "I got this printed crate image from the museum. It has Sultan Mirza's logo, Paris as the destination."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r04_m01_c007",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Wait. The impressions might still be there. Do you have a compact and a brush?"
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r04_m01_c009",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "After the notebook recovery task.",
+      "speech": {
+        "text": [
+          "There. The markings are coming through."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r04_m01_c013",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Where?"
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r04_m02_c002",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Got it. I'll stay out of sight."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r04_m02_c003",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "After collecting Noor's phone.",
+      "speech": {
+        "text": [
+          "I've got her phone. This could tell us what she's connected to."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r04_m03_c002",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Don't worry, Meera. I'll get you somewhere safe. Just stay out of sight until I arrange it."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r04_m04_c002",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Yeah, yeah. Don't worry. We're heading to the safehouse."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r04_m04_c004",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "If Noor's involved with Sultan and the shipment, we might finally have something to work with."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r04_m04_c005",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Noor's phone rings and Arjun answers.",
+      "speech": {
+        "text": [
+          "Hello?"
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r04_m04_c007",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Sure. I'll bring it."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r04_m04_c011",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Of course. Let's go."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r05_m01_c003",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "I've been looking for work involving real artifacts and rare collections. That's the kind of work I'm really interested in."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r05_m01_c006",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "I'll drop you home. If you don't mind."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r05_m03_c001",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once Arjun answers Noor's call.",
+      "speech": {
+        "text": [
+          "Hello?"
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r05_m03_c003",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Sure, Noor. I'll take care of it."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r05_m03_c005",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Sure, I'll take it there."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r05_m04_c001",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once Arjun answers Meera's call.",
+      "speech": {
+        "text": [
+          "Hello, Meera."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r05_m04_c003",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "After reaching Naseem's house.",
+      "speech": {
+        "text": [
+          "Meera mentioned you still have the old buyer register. Do you still have it?"
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r05_m04_c005",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once Arjun answers Meera's call.",
+      "speech": {
+        "text": [
+          "Hello, Meera."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r05_m04_c007",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Yeah, I have it."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r05_m04_c009",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "After placing the register on the investigation table.",
+      "speech": {
+        "text": [
+          "I found something in the dockyard photo. See if you recognise this man."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r05_m04_c011",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Armaan Qureshi... That's the same name from your notebook. So this is our new lead."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r05_m04_c012",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once Arjun answers Noor's call.",
+      "speech": {
+        "text": [
+          "Hello, Noor."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r05_m04_c014",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Alright. I'll get them ready."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r06_m01_c001",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once Arjun answers Noor's call.",
+      "speech": {
+        "text": [
+          "Hello, Noor."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r06_m01_c003",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Yes, I have both ready."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r06_m01_c009",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Understood. I'll keep that in mind."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r06_m02_c001",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once Arjun answers Noor's call.",
+      "speech": {
+        "text": [
+          "Hello, Noor."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r06_m02_c003",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Sure, I'm coming."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r06_m02_c005",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "At the delivery point.",
+      "speech": {
+        "text": [
+          "Here's the package."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r06_m03a_c003",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Version A. At the exchange point.",
+      "speech": {
+        "text": [
+          "Got it. I'll handle it."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r06_m03a_c005",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Version A.",
+      "speech": {
+        "text": [
+          "Yes, everything looks fine."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r06_m03b_c001",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Version B. Once Arjun answers the handler's call.",
+      "speech": {
+        "text": [
+          "Hello, Armaan."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r06_m03b_c004",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Version B.",
+      "speech": {
+        "text": [
+          "Understood."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r06_m03b_c006",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Version B.",
+      "speech": {
+        "text": [
+          "Yes, everything's in order."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r07_m01_c001",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once Arjun answers the handler's call.",
+      "speech": {
+        "text": [
+          "Hello."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r07_m01_c003",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Understood. I'm on my way."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r07_m01_c005",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Alright. I'll bring it back when I'm done."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r07_m01_c007",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "I'm glad to hear that. I'll be ready for the next job."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r07_m02_c001",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once Arjun answers the handler's call.",
+      "speech": {
+        "text": [
+          "Hello."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r07_m02_c003",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Sure, I'll pick him up."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r07_m02_c005",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Yes, he's here safely."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r07_m02_c007",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "I'll get it done."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r07_m02_c009",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Yes, I've reached the delivery point, but the entrance is blocked by a security barrier."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r07_m02_c011",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Alright, I'm on it."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r07_m03_c001",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once Arjun answers the handler's call.",
+      "speech": {
+        "text": [
+          "Hello."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r07_m03_c003",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "At the construction building.",
+      "speech": {
+        "text": [
+          "I'm here. What can I do for you today?"
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r07_m03_c006",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "After the yellow car stops near the café.",
+      "speech": {
+        "text": [
+          "This is my chance."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r07_m03_c007",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "After planting and activating the bug.",
+      "speech": {
+        "text": [
+          "It's transmitting. Time to move."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r07_m03_c008",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "After the yellow car reaches the final location.",
+      "speech": {
+        "text": [
+          "This looks like the place. I need proof."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r07_m03_c010",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "At the club with the handler.",
+      "speech": {
+        "text": [
+          "I managed to get a photo. Take a look."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r08_m01_c001",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once Arjun answers the handler's call.",
+      "speech": {
+        "text": [
+          "Hello."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r08_m01_c003",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "At the meeting location.",
+      "speech": {
+        "text": [
+          "I'm here."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r08_m01_c005",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Thank you. I'm ready."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r08_m01_c009",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Okay. I'm on it."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r08_m02_c001",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once Arjun answers Meera's call.",
+      "speech": {
+        "text": [
+          "Hello, Meera."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r08_m02_c003",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Yes, Meera. I have an update. Let's meet at my safehouse. I'll come pick you up, and we can talk there."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r08_m02_c005",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "At the safehouse, Meera places her laptop.",
+      "speech": {
+        "text": [
+          "During one of the handler's previous tasks, I was given two tracking bugs. I secretly kept one because I thought it might be useful later."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r08_m02_c007",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "After the Bug Modification Puzzle.",
+      "speech": {
+        "text": [
+          "The bug is ready."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r08_m02_c009",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "That's great. Thanks, Meera."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r08_m02_c011",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Of course."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r08_m03_c001",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "At the construction building meeting table.",
+      "speech": {
+        "text": [
+          "The handler asked me to check if the construction material has arrived. Could you take a look?"
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r08_m03_c002",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "After picking up the tea packet.",
+      "speech": {
+        "text": [
+          "Looks like the tea packet is missing. Could someone bring another one?"
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r08_m03_c003",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Bug activated, a mafia member returns.",
+      "speech": {
+        "text": [
+          "Good, you're here. I was just about to leave anyway. I've got some other work to take care of. See you around."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r08_m03_c005",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Meera's call at the construction building entrance.",
+      "speech": {
+        "text": [
+          "The bug has been planted successfully."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r09_m01_c002",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "If they have Sofia, I'll get her out before they move her."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r09_m01_c004",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "After Sofia recognises him.",
+      "speech": {
+        "text": [
+          "Yes, it's me. I'm getting you out of here."
+        ],
+        "voice": "Arjun speaks in a hushed, urgent and reassuring tone, slightly fast. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r09_m01_c006",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Stay calm. You're almost free."
+        ],
+        "voice": "Arjun speaks in a hushed, calm and reassuring tone. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r09_m01_c008",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Come on. We need to move."
+        ],
+        "voice": "Arjun speaks in a hushed and urgent tone, slightly fast. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r09_m02_c002",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Yes. I rescued her. She's safe at the safehouse."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r09_m02_c004",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Sure. I'm on my way."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r09_m02_c007",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Back with the medicines and food.",
+      "speech": {
+        "text": [
+          "I got the medicines, bread, and milk."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r09_m02_c009",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "What are they sending to Paris?"
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r09_m02_c011",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "So the missing artifact is being sent to Paris with the stolen antiques."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r09_m02_c013",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Of course. I'll drop you back."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r10_m01_c002",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Sure. I'll be there."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r10_m01_c004",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Got it. I'll prepare it and use it to get past the guards."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r10_m01_c006",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "The shipment has already left for Paris."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r10_m02_c002",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "I'm on my way."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r10_m02_c004",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Understood. I'll stay alert."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r10_m02_c007",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Of course. I'll stay in touch."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r10_m02_c009",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Yes. I'm moving to Paris for a new opportunity. Thanks for all your help, and please take care of your health."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r10_m02_c011",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "I've received a good job opportunity in Paris, so I've decided to move there. Thank you for giving me a place to stay, trusting me, and treating me like family."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.arjun.r10_m02_c013",
+      "character": "Arjun",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "After Rajan congratulates him.",
+      "speech": {
+        "text": [
+          "Thank you, Rajan. I'll definitely come back to visit."
+        ],
+        "voice": "Arjun speaks in a calm, warm and friendly tone at a moderate pace, slightly expressive, like a young man in his late twenties. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    }
+  ]
+}

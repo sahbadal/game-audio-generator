@@ -1,7 +1,10 @@
+import gc
 import random
 
 import numpy as np
 import torch
+
+import config
 
 REPO = "stabilityai/stable-audio-open-1.0"
 MAX_PER_CALL = 4  # waveforms per call; more at once costs VRAM for little speed gain
@@ -18,7 +21,20 @@ class SfxEngine:
             return
         from diffusers import StableAudioPipeline
 
-        self.pipe = StableAudioPipeline.from_pretrained(REPO, torch_dtype=torch.float16).to("cuda")
+        self.pipe = StableAudioPipeline.from_pretrained(REPO, torch_dtype=torch.float16)
+        if config.LOW_VRAM:
+            # Moves each part to the GPU only while it runs: much less memory, a little slower.
+            self.pipe.enable_model_cpu_offload()
+        else:
+            self.pipe.to("cuda")
+
+    def unload(self):
+        """Free the GPU memory this engine holds."""
+        if self.pipe is None:
+            return
+        self.pipe = None
+        gc.collect()
+        torch.cuda.empty_cache()
 
     @property
     def sample_rate(self) -> int:

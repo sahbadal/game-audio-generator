@@ -23,7 +23,8 @@ class WorkerClient:
         if not self.python_exe.exists():
             raise RuntimeError(f"{self.name} venv not found: {self.python_exe}")
 
-        env = dict(os.environ, PYTHONIOENCODING="utf-8", PYTHONUNBUFFERED="1")
+        env = dict(os.environ, PYTHONIOENCODING="utf-8", PYTHONUNBUFFERED="1",
+                   AUDIOGEN_LOW_VRAM="1" if config.LOW_VRAM else "0")
         self.proc = subprocess.Popen(
             [str(self.python_exe), "-u", str(self.script)],
             stdin=subprocess.PIPE,
@@ -60,8 +61,15 @@ class WorkerClient:
             return result
 
     def close(self):
-        if self.proc and self.proc.poll() is None:
-            self.proc.terminate()
+        """Stop the worker and free its GPU memory. It starts again on the next job."""
+        with self.lock:
+            if self.proc and self.proc.poll() is None:
+                self.proc.terminate()
+                try:
+                    self.proc.wait(timeout=15)
+                except subprocess.TimeoutExpired:
+                    self.proc.kill()
+            self.proc = None
 
 
 def speech_client() -> WorkerClient:

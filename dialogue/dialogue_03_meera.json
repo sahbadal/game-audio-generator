@@ -1,0 +1,789 @@
+{
+  "project": "Dreamscape",
+  "version": 1,
+  "note": "Meera: 46 lines.",
+  "slots": [
+    {
+      "id": "story.meera.r02_m03_c001",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once Arjun answers Sofia's incoming call.",
+      "speech": {
+        "text": [
+          "Sofia? I've been calling. Hello?"
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r02_m03_c003",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Where's Sofia? Why do you have her phone?"
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r02_m03_c005",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Did you find anything?"
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r02_m03_c007",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "If she marked it, there's a reason."
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r02_m03_c009",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Be careful. Call me if you find anything."
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r03_m01_c001",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once Arjun answers Meera's call.",
+      "speech": {
+        "text": [
+          "Arjun? Is everything alright?"
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r03_m01_c003",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Naseem Shaikh? He's a retired museum conservator. His family artifact was replaced with a fake."
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r03_m01_c005",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "I have his old conservation room's location. I'll send it to you."
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r04_m01_c001",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once Arjun reaches the street food stall.",
+      "speech": {
+        "text": [
+          "Arjun, this place is too crowded. Someone could overhear us. Meet me at the café nearby."
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r04_m01_c004",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Sultan Mirza... That logo looks familiar. Give me a second."
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r04_m01_c005",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "After opening her investigation notebook.",
+      "speech": {
+        "text": [
+          "I have it in my old notes. Let me check the details."
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r04_m01_c006",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "After the coffee spills and blurs the page.",
+      "speech": {
+        "text": [
+          "Damn. These were important notes. The names and markings are completely blurred."
+        ],
+        "voice": "Aditi speaks in a frustrated and annoyed tone. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r04_m01_c008",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Yes. Here. Be careful with the page."
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r04_m01_c010",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "After the hidden markings become visible.",
+      "speech": {
+        "text": [
+          "Sultan Mirza... Noor Mirza... and Armaan Qureshi. I need to find out who Noor is."
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r04_m01_c011",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "I know a journalist I can trust. They may know something about Noor. I'll call them."
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r04_m01_c012",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "After the phone call with her source.",
+      "speech": {
+        "text": [
+          "We have a lead. Noor is expected to be at a location tomorrow."
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r04_m01_c014",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "I'll send you the location. But don't confront her. Follow her quietly and don't let her notice you."
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r04_m02_c001",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "At the street food area, the next day.",
+      "speech": {
+        "text": [
+          "Noor likes street food and comes here often. Keep your distance and just observe her. Don't make contact."
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r04_m03_c001",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "After Arjun recovers the files from Noor's phone.",
+      "speech": {
+        "text": [
+          "Arjun, I'm being watched and I don't think it's safe for us to meet in public anymore. Please find a safehouse first."
+        ],
+        "voice": "Aditi speaks in a nervous, urgent and quiet tone. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r04_m04_c001",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "After Arjun picks up Meera.",
+      "speech": {
+        "text": [
+          "I'm getting threats, Arjun. I can't stay in public for long. Can we get to the safehouse?"
+        ],
+        "voice": "Aditi speaks in a nervous and anxious tone at a slightly fast pace. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r04_m04_c003",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "In the safehouse, starting the discussion.",
+      "speech": {
+        "text": [
+          "We need to figure out Sultan Mirza's role, Noor's connection, and where the shipment is headed. The Paris route could be important."
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r04_m04_c009",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "After the call ends.",
+      "speech": {
+        "text": [
+          "This could help us understand Noor's connection to the mafia. Just be careful and don't give anything away."
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r04_m04_c010",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "After they finalize their discussion.",
+      "speech": {
+        "text": [
+          "Could you drop me home, please?"
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r05_m04_c002",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Hello, Arjun. I need your help. I need you to check something. Naseem still has his old handwritten buyer register. Can you get it?"
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r05_m04_c006",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Did you find the register?"
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r05_m04_c008",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Good. Pick me up and we'll go through it together at the safehouse."
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r05_m04_c010",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "After comparing the dockyard photo with the register.",
+      "speech": {
+        "text": [
+          "Armaan Qureshi... His name keeps coming up in these records. That's the man in the photo. He's Sultan Mirza's trusted handler. He handles the antique deals for the network."
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r08_m02_c002",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Hello, Arjun. Any updates?"
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r08_m02_c004",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Sure, that works. I'll wait for you."
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r08_m02_c006",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Wow, that's a great idea. We should modify it so the mafia can't detect or trace our access."
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r08_m02_c008",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Great. I'll monitor it as soon as it's planted. If I find anything important, I'll let you know right away."
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r08_m02_c010",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Can you drop me home?"
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r08_m03_c006",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Good. I'll monitor the tracker and let you know if I find Sofia's location or any useful lead."
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r09_m01_c001",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "After Arjun answers Meera's call.",
+      "speech": {
+        "text": [
+          "Arjun, the tracking bug captured an important conversation. The mafia members were talking about a girl who keeps shouting at night and will be sent with the next shipment. I believe it's Sofia. You need to rescue her before she's moved."
+        ],
+        "voice": "Aditi speaks in a fast, urgent and worried tone. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r09_m02_c001",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Meera's call at the safehouse.",
+      "speech": {
+        "text": [
+          "Arjun, is Sofia safe?"
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r09_m02_c003",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Good. I'll come over. Can you pick me up from my location?"
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r09_m02_c006",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "You need to rest, Sofia. Arjun, please bring some medicines and basic food supplies."
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r09_m02_c012",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "You need to get some rest, Sofia. Arjun, can you drop me back at my location?"
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r09_m02_c014",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once Arjun drops Meera at her location.",
+      "speech": {
+        "text": [
+          "Thanks for rescuing Sofia, Arjun."
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r10_m01_c001",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Meera's call at the safehouse.",
+      "speech": {
+        "text": [
+          "Arjun, meet me at the café. I have an important plan for the dockyard investigation."
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r10_m01_c003",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Arjun meets Meera at the café.",
+      "speech": {
+        "text": [
+          "Take this fog cartridge. It can create thick fog and distract the guards at the dockyard entrance."
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r10_m01_c005",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Call after Arjun reaches the dockyard exit.",
+      "speech": {
+        "text": [
+          "Arjun, what did you find?"
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r10_m01_c007",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "I'll arrange everything we need for the Paris trip. Just make sure you get back safely."
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r10_m02_c001",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Meera's call.",
+      "speech": {
+        "text": [
+          "Arjun, everything for the Paris trip is arranged. Come to the safehouse."
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r10_m02_c003",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Arjun reaches the safehouse.",
+      "speech": {
+        "text": [
+          "Here are your passports, visas, flight tickets, and travel documents. Paris will be completely different from Mumbai, so stay alert throughout the investigation."
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.meera.r10_m02_c006",
+      "character": "Meera",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Good. I wish you both luck. Stay in contact with me during the investigation."
+        ],
+        "voice": "Aditi speaks in a confident, sharp and slightly urgent tone at a moderate pace, like a determined investigator. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    }
+  ]
+}

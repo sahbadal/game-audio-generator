@@ -66,6 +66,8 @@ def main() -> None:
                     sf.write(path, wav.squeeze(0).cpu().numpy(), model.sr)
                     files.append({"path": path, "text": text, "seed": seed})
 
+            if device == "cuda":
+                torch.cuda.empty_cache()
             emit({"ok": True, "sample_rate": model.sr, "files": files})
 
         except Exception as error:

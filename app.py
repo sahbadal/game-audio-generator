@@ -27,6 +27,24 @@ voice = voice_client()
 
 # ---------- helpers ----------
 
+def _use(engine: str) -> None:
+    """With LOW_VRAM on, keep only the engine about to run on the GPU."""
+    if not config.LOW_VRAM:
+        return
+    if engine != "sfx":
+        sfx.unload()
+    if engine != "speech":
+        speech.close()
+    if engine != "voice":
+        voice.close()
+
+
+def on_free_gpu():
+    sfx.unload()
+    speech.close()
+    voice.close()
+    return "GPU memory freed. Models load again on the next generate."
+
 def _previews(paths: list) -> list:
     updates = []
     for i in range(MAX_PREVIEW):
@@ -45,6 +63,7 @@ def _run_sfx(slot_id, category, prompt, negative, seconds, count, steps, seed, l
     slot_id = library.validate_id(slot_id)
     if not prompt.strip():
         raise ValueError("Prompt is empty.")
+    _use("sfx")
 
     seconds = min(float(seconds), config.SFX_MAX_SECONDS)
     takes = sfx.generate(prompt, negative, seconds, int(count), int(steps), int(seed))
@@ -68,6 +87,7 @@ def _run_speech(slot_id, category, lines, voice, count, seed) -> list:
         raise ValueError("Add at least one line of text.")
     if not voice.strip():
         raise ValueError("Describe the voice.")
+    _use("speech")
 
     tmp = config.TEMP_DIR / uuid.uuid4().hex
     try:
@@ -101,6 +121,7 @@ def _run_voice(slot_id, category, lines, ref_name, exaggeration, cfg_weight, cou
         raise ValueError("Add at least one line of text.")
     if not ref_name:
         raise ValueError("Pick a reference voice from voices/.")
+    _use("voice")
 
     ref = config.VOICES_DIR / ref_name
     tmp = config.TEMP_DIR / uuid.uuid4().hex
@@ -193,6 +214,10 @@ def on_batch(manifest_path, only_status, steps, progress=gr.Progress()):
     if not slots:
         return f"No slots with status '{only_status}'."
 
+    # Group by engine so each model loads once per batch instead of swapping per slot.
+    engine_order = {"sfx": 0, "speech": 1, "voice": 2}
+    slots.sort(key=lambda s: engine_order.get(s.get("model", "sfx"), 0))
+
     log = []
     for index, slot in enumerate(slots):
         progress(index / len(slots), desc=slot.get("id", "?"))
@@ -237,6 +262,10 @@ def build() -> gr.Blocks:
     with gr.Blocks(title="AudioGen") as app:
         gr.Markdown("# AudioGen\nGenerate, review and approve game audio. "
                     "Takes land in `output/candidates`, approved files in `output/final`.")
+        with gr.Row():
+            free_btn = gr.Button("Free GPU memory", size="sm")
+            free_status = gr.Markdown()
+        free_btn.click(on_free_gpu, None, free_status)
 
         with gr.Tab("Sound effect"):
             with gr.Row():

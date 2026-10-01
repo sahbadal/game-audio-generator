@@ -27,6 +27,10 @@ VOICES_DIR = ROOT / "voices"
 
 DEFAULT_MANIFEST = ROOT / "audio_manifest.json"
 
+# Keep only one model on the GPU at a time and load models lighter (bf16 speech,
+# CPU offload for Stable Audio). Turn off on a GPU with lots of memory for more speed.
+LOW_VRAM = True
+
 # Stable Audio Open limit.
 SFX_MAX_SECONDS = 47
 

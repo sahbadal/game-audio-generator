@@ -23,7 +23,10 @@ def emit(payload: dict) -> None:
 
 def main() -> None:
     device = "cuda" if torch.cuda.is_available() else "cpu"
-    model = ParlerTTSForConditionalGeneration.from_pretrained(REPO).to(device)
+    # bf16 halves the memory with no audible difference; full precision when memory is not a concern.
+    low_vram = os.environ.get("AUDIOGEN_LOW_VRAM") == "1" and device == "cuda"
+    dtype = torch.bfloat16 if low_vram else torch.float32
+    model = ParlerTTSForConditionalGeneration.from_pretrained(REPO, torch_dtype=dtype).to(device)
     tokenizer = AutoTokenizer.from_pretrained(REPO)
     desc_tokenizer = AutoTokenizer.from_pretrained(model.config.text_encoder._name_or_path)
     sample_rate = model.config.sampling_rate
@@ -59,9 +62,11 @@ def main() -> None:
                     )
 
                     path = os.path.join(out_dir, f"raw_{len(files):03d}.wav")
-                    sf.write(path, audio.cpu().numpy().squeeze(), sample_rate)
+                    sf.write(path, audio.float().cpu().numpy().squeeze(), sample_rate)
                     files.append({"path": path, "text": text, "seed": seed})
 
+            if device == "cuda":
+                torch.cuda.empty_cache()
             emit({"ok": True, "sample_rate": sample_rate, "files": files})
 
         except Exception as error:

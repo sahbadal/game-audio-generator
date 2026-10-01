@@ -1,0 +1,347 @@
+{
+  "project": "Dreamscape",
+  "version": 1,
+  "note": "Naseem: 20 lines.",
+  "slots": [
+    {
+      "id": "story.naseem.r03_m01_c007",
+      "character": "Naseem",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Then you may be able to help. My family's vase was replaced with a fake, and no one took my complaint seriously."
+        ],
+        "voice": "Suresh speaks slowly with a low pitch, in a gentle, tired and kind tone, like an elderly man. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.naseem.r03_m01_c009",
+      "character": "Naseem",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "I have an old family photo and the original records. They should help prove it."
+        ],
+        "voice": "Suresh speaks slowly with a low pitch, in a gentle, tired and kind tone, like an elderly man. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.naseem.r03_m01_c010",
+      "character": "Naseem",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once Arjun finds the old family photo.",
+      "speech": {
+        "text": [
+          "That's the original. Compare it with the vase on display."
+        ],
+        "voice": "Suresh speaks slowly with a low pitch, in a gentle, tired and kind tone, like an elderly man. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.naseem.r03_m01_c012",
+      "character": "Naseem",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "I knew it. Dev, one of the museum interns, may know what happened. You should talk to him."
+        ],
+        "voice": "Suresh speaks slowly with a low pitch, in a gentle, tired and kind tone, like an elderly man. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.naseem.r03_m01_c014",
+      "character": "Naseem",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Please do. I just want to know the truth."
+        ],
+        "voice": "Suresh speaks slowly with a low pitch, in a gentle, tired and kind tone, like an elderly man. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.naseem.r03_m02_c001",
+      "character": "Naseem",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once Arjun reaches the Museum Opposite Marker.",
+      "speech": {
+        "text": [
+          "The museum is closed right now. Dev has the key, so you'll need to pick him up first."
+        ],
+        "voice": "Suresh speaks slowly with a low pitch, in a gentle, tired and kind tone, like an elderly man. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.naseem.r03_m02_c003",
+      "character": "Naseem",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "He's at home. Bring him along, and you can check the archive with him."
+        ],
+        "voice": "Suresh speaks slowly with a low pitch, in a gentle, tired and kind tone, like an elderly man. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.naseem.r03_m03_c006",
+      "character": "Naseem",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "I might have something. It's an old blow pipe, but it's cracked."
+        ],
+        "voice": "Suresh speaks slowly with a low pitch, in a gentle, tired and kind tone, like an elderly man. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.naseem.r03_m03_c008",
+      "character": "Naseem",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "It can, once it's repaired and prepared properly."
+        ],
+        "voice": "Suresh speaks slowly with a low pitch, in a gentle, tired and kind tone, like an elderly man. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.naseem.r03_m04_c001",
+      "character": "Naseem",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Once Arjun reaches Rajan's repair shop.",
+      "speech": {
+        "text": [
+          "Arjun, did you find anything from the shipment?"
+        ],
+        "voice": "Suresh speaks slowly with a low pitch, in a gentle, tired and kind tone, like an elderly man. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.naseem.r03_m04_c003",
+      "character": "Naseem",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "That could be important. Can you get it printed? We'll need physical proof."
+        ],
+        "voice": "Suresh speaks slowly with a low pitch, in a gentle, tired and kind tone, like an elderly man. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.naseem.r03_m04_c006",
+      "character": "Naseem",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "That's a relief. I just hope we can find out what happened to my family artifact."
+        ],
+        "voice": "Suresh speaks slowly with a low pitch, in a gentle, tired and kind tone, like an elderly man. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.naseem.r03_m04_c007",
+      "character": "Naseem",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "All this stress has really taken a toll on me. I think I should get to the hospital."
+        ],
+        "voice": "Suresh speaks slowly with a low pitch, in a gentle, tired and kind tone, like an elderly man. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.naseem.r03_m04_c008",
+      "character": "Naseem",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Could you get my scooter key from that drawer?"
+        ],
+        "voice": "Suresh speaks slowly with a low pitch, in a gentle, tired and kind tone, like an elderly man. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.naseem.r03_m04_c012",
+      "character": "Naseem",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Scooter unlocked, ready to leave.",
+      "speech": {
+        "text": [
+          "Thank you, Arjun. I'm sorry for putting all this on you."
+        ],
+        "voice": "Suresh speaks slowly with a low pitch, in a gentle, tired and kind tone, like an elderly man. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.naseem.r03_m04_c015",
+      "character": "Naseem",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Thank you, Arjun. I really appreciate it."
+        ],
+        "voice": "Suresh speaks slowly with a low pitch, in a gentle, tired and kind tone, like an elderly man. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.naseem.r05_m02_c001",
+      "character": "Naseem",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "After Arjun answers the incoming call.",
+      "speech": {
+        "text": [
+          "Arjun, I'm not feeling well and can't finish today's deliveries. Could you help me out and take them for me?"
+        ],
+        "voice": "Suresh speaks slowly with a low pitch, in a gentle, tired and kind tone, like an elderly man. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.naseem.r05_m02_c004",
+      "character": "Naseem",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "After Arjun returns the delivery cycle.",
+      "speech": {
+        "text": [
+          "Thanks, Arjun. I really appreciate you helping with the deliveries while I'm sick."
+        ],
+        "voice": "Suresh speaks slowly with a low pitch, in a gentle, tired and kind tone, like an elderly man. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.naseem.r05_m04_c004",
+      "character": "Naseem",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Yes, I still have it. Give me a minute, I'll get it for you."
+        ],
+        "voice": "Suresh speaks slowly with a low pitch, in a gentle, tired and kind tone, like an elderly man. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.naseem.r10_m02_c008",
+      "character": "Naseem",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "Arjun meets Naseem at the shop.",
+      "speech": {
+        "text": [
+          "You're leaving Mumbai for a new opportunity? Take care of yourself, Arjun."
+        ],
+        "voice": "Suresh speaks slowly with a low pitch, in a gentle, tired and kind tone, like an elderly man. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    }
+  ]
+}

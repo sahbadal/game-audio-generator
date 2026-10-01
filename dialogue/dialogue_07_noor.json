@@ -1,0 +1,228 @@
+{
+  "project": "Dreamscape",
+  "version": 1,
+  "note": "Noor: 13 lines.",
+  "slots": [
+    {
+      "id": "story.noor.r04_m04_c006",
+      "character": "Noor",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "After Arjun answers Noor's phone.",
+      "speech": {
+        "text": [
+          "I think you have my phone. Could you bring it to the location I'm sending you?"
+        ],
+        "voice": "Divya speaks in a smooth, calm and confident tone at a moderate pace, polite but guarded. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.noor.r04_m04_c008",
+      "character": "Noor",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Thanks. Come alone, and keep my phone safe."
+        ],
+        "voice": "Divya speaks in a smooth, calm and confident tone at a moderate pace, polite but guarded. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.noor.r05_m01_c001",
+      "character": "Noor",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "At the quiet meetup location.",
+      "speech": {
+        "text": [
+          "Thanks for bringing my phone back. Can you grab me a coffee from the café nearby?"
+        ],
+        "voice": "Divya speaks in a smooth, calm and confident tone at a moderate pace, polite but guarded. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.noor.r05_m01_c002",
+      "character": "Noor",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "After Arjun gives her the coffee.",
+      "speech": {
+        "text": [
+          "So, what brought you here yourself?"
+        ],
+        "voice": "Divya speaks in a smooth, calm and confident tone at a moderate pace, polite but guarded. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.noor.r05_m01_c004",
+      "character": "Noor",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Artifacts, huh? If I hear of anything suitable, I'll let you know."
+        ],
+        "voice": "Divya speaks in a smooth, calm and confident tone at a moderate pace, polite but guarded. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.noor.r05_m01_c005",
+      "character": "Noor",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "After the conversation.",
+      "speech": {
+        "text": [
+          "It's getting late. I'll head home from here."
+        ],
+        "voice": "Divya speaks in a smooth, calm and confident tone at a moderate pace, polite but guarded. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.noor.r05_m01_c007",
+      "character": "Noor",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Thanks. That's very kind of you."
+        ],
+        "voice": "Divya speaks in a smooth, calm and confident tone at a moderate pace, polite but guarded. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.noor.r05_m03_c002",
+      "character": "Noor",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Arjun, I need you to pick up my friend from the airport, drop her at the hotel, and then deliver the briefcase she gives you to the dockyard."
+        ],
+        "voice": "Divya speaks in a smooth, calm and confident tone at a moderate pace, polite but guarded. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.noor.r05_m04_c013",
+      "character": "Noor",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Hello, Arjun. Remember what we talked about? If you want to get into this circle, you'll need a cash envelope and an approved rare souvenir."
+        ],
+        "voice": "Divya speaks in a smooth, calm and confident tone at a moderate pace, polite but guarded. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.noor.r06_m01_c002",
+      "character": "Noor",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Hello, Arjun. Are you ready? Do you have the cash envelope and the approved souvenir?"
+        ],
+        "voice": "Divya speaks in a smooth, calm and confident tone at a moderate pace, polite but guarded. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.noor.r06_m01_c004",
+      "character": "Noor",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Good. I'm sending you the location. Go there and follow their instructions."
+        ],
+        "voice": "Divya speaks in a smooth, calm and confident tone at a moderate pace, polite but guarded. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.noor.r06_m02_c002",
+      "character": "Noor",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "",
+      "speech": {
+        "text": [
+          "Arjun, my car has stopped near a service lane. I'm getting late for an important meeting. Can you come help me?"
+        ],
+        "voice": "Divya speaks in a smooth, calm and confident tone at a moderate pace, polite but guarded. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    },
+    {
+      "id": "story.noor.r06_m02_c004",
+      "character": "Noor",
+      "category": "dialogue",
+      "model": "speech",
+      "trigger": "After the engine starts.",
+      "speech": {
+        "text": [
+          "I'm getting late for my meeting. Please take the sealed package from the trunk and deliver it to the handler's right-hand man."
+        ],
+        "voice": "Divya speaks in a smooth, calm and confident tone at a moderate pace, polite but guarded. The recording is very clear audio, close up, with no background noise.",
+        "seed": 42
+      },
+      "variations": 1,
+      "spatial": "3d",
+      "status": "todo"
+    }
+  ]
+}
